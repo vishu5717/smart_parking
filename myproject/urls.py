@@ -20,5 +20,6 @@ from . import views #from (file)views import (fun)test
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('test/', views.test)
+    path('test/', views.test),
+    path('aboutus/', views.aboutus)
 ]
