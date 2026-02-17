@@ -7,3 +7,15 @@ def test (request):
 
 def aboutus (request): 
     return render(request,"aboutus.html")
+
+
+
+
+
+
+
+
+
+
+
+
